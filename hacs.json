@@ -1,8 +1,5 @@
 {
-    "name": "Google AQI Card",
-    "content_in_root": false,
-    "render_readme": true,
-    "domains": ["lovelace"],
-    "country": ["ALL"]
-  }
-  
+  "name": "Google AQI Card",
+  "content_in_root": true,
+  "filename": "aqi-dashboard.js"
+}
